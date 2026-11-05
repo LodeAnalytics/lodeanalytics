@@ -2,7 +2,6 @@
 
 I build automated reporting on **Microsoft Fabric**, from source system to **Power BI** dashboard, for growing manufacturers and distributors.
 
-- I currently run 50+ production data pipelines for a food manufacturer, feeding finance, sales, inventory, MRP and demand planning, production (OEE), quality, safety, maintenance, and IT reporting.
 - My background is systems administration, so I also handle the infrastructure side: Fabric capacity, workspaces, gateways, identity, and security.
 - I work one client at a time, at fixed prices, and the client owns everything I build.
 
