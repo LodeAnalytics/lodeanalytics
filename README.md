@@ -18,6 +18,7 @@ I build automated reporting on **Microsoft Fabric**, from source system to **Pow
 
 Demo projects built with fictional data only. Nothing here comes from a client or employer.
 
+- [fabric-medallion-demo](https://github.com/lodeanalytics/fabric-medallion-demo): an end-to-end Fabric pipeline (bronze, silver, gold) with incremental loads, data-quality checks, a weather API, and automated tests
 - [demo-data-generator](https://github.com/lodeanalytics/demo-data-generator): a Python script that creates a fictional food manufacturer's sales, inventory, and production data for demos
 - [lodeanalytics.github.io](https://github.com/lodeanalytics/lodeanalytics.github.io): the source for lodeanalytics.com
 
